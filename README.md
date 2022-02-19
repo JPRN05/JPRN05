@@ -1,5 +1,5 @@
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584603.png" width="803" height="108" alt="Supernova" /></a>
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584604.png" width="489" height="194" alt="Frosty" /></a>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584605.png" width="519" height="108" alt="JPRN05" /></a>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584606.png" width="450" height="176" alt="GitHub" /></a>
 
 <table class="tg">
 <thead>
