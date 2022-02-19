@@ -79,4 +79,4 @@
   </tr>
 </tbody>
 </table>
-https://m.media-amazon.com/images/I/71IzYJAhEsL._SL1500_.jpg
+https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
