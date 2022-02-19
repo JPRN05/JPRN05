@@ -12,7 +12,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">7:00-7:50</td>
+    <td class="tg-0pky">7:00-7:50 </td>
     <td class="tg-0pky">MANTENIMIENTO Y <br>REDES DE CÓMPUTO</td>
     <td class="tg-0pky">FÍSICA II</td>
     <td class="tg-0pky">ACTIVIDADES FÍSICAS, <br>DEPORTIVAS Y <br>RECREATIVAS IV</td>
