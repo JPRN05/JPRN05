@@ -79,4 +79,4 @@
   </tr>
 </tbody>
 </table>
-![Alt text](/path/to/img.jpg)
+![m.media-amazon.com](https://m.media-amazon.com/images/I/71IzYJAhEsL._SL1500_.jpg)
