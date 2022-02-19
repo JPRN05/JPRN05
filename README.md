@@ -1,6 +1,6 @@
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584603.png" width="803" height="108" alt="Supernova" /></a>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584604.png" width="489" height="194" alt="Frosty" /></a>
 
-# JPRN 
 <table class="tg">
 <thead>
   <tr>
