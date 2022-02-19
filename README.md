@@ -1,3 +1,5 @@
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584603.png" width="803" height="108" alt="Supernova" /></a>
+
 # JPRN 
 <table class="tg">
 <thead>
@@ -77,6 +79,3 @@
   </tr>
 </tbody>
 </table>
-https://images.cooltext.com/5584603.png 
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5584603.png" width="803" height="108" alt="Supernova" /></a>
-<br />Image by <a href="https://es.cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=4047349661">Edit Image</a>
